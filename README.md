@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/DariusJ122/post-install-config)
   - [osTicket: Resolving Tickets in a Ticketing System](https://github.com/DariusJ122/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - https://github.com/DariusJ122/azure-network-protocols
+  - [Installing Network Traffic in Azure](https://github.com/DariusJ122/azure-network-protocols)
   - [Installing Active Directory in Azure](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
