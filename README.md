@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Inspecting Network Traffic in Azure](https://github.com/DariusJ122/azure-network-protocols)
   - [Installing Active Directory in Azure](https://github.com/DariusJ122/install-ad)
+  - [Configuring Active Directory in Azure](https://github.com/DariusJ122/configure-ad/tree/main)
 
 <h2>🤳Connect with me:</h2>
 
