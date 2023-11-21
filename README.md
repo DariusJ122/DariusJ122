@@ -1,9 +1,9 @@
 <h1>Hi, I'm Darius, an <a href="[https://linkedin.com/in/Josh](https://www.linkedin.com/in/darius-jackson-818319267/)">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Project:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/DariusJ122/osticket-prereqs)
+- <b>Virtual Machine (Using Microsoft Azure to create a Virtual Machine)</b>
+  - https://github.com/DariusJ122/creating-vm
 
 <h2>🤳Connect with me:</h2>
 
