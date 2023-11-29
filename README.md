@@ -4,6 +4,7 @@
 
 - <b>Virtual Machine (Using Microsoft Azure to create a Virtual Machine)</b>
   - https://github.com/DariusJ122/creating-vm
+  - https://github.com/DariusJ122/configure-ad
 
 <h2>🤳Connect with me:</h2>
 
